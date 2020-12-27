@@ -1,0 +1,46 @@
+[
+
+{
+	"AdiSoyadi":    "Mustafa Kemal Atatürk",
+	"DogumTarihi":  "1881",
+	"OlumTarihi":   "10 Kasım 1938",
+	"ResimURL":     "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/MustafaKemalAtaturk.jpg"
+	
+}
+,
+{
+	"AdiSoyadi":    "İsmet İnönü",
+	"DogumTarihi":  "24 Eylül 1884",
+	"OlumTarihi":   "28 Aralık 1973",
+	"ResimURL":    "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/IsmetInonu.jpg"
+}
+,
+{
+	"AdiSoyadi":    "Yavuz Sultan Selim",
+	"DogumTarihi":  "10 Ekim 1470",
+	"OlumTarihi":   "22 Eylül 1520",
+	"ResimURL":    "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/YavuzSultanSelim.jpg"
+}
+,
+{
+	"AdiSoyadi":    "Fatih Sultan Mehmet",
+	"DogumTarihi":  "30 Mart 1432",
+	"OlumTarihi":   "3 Mayıs 1481",
+	"ResimURL":    "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/FatihSultanMehmet.jpg"
+}
+,
+{
+	"AdiSoyadi":    "Kanuni Sultan Süleyman",
+	"DogumTarihi":  "6 Kasım 1494",
+	"OlumTarihi":   "6 Eylül 1566",
+	"ResimURL":    "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/KanuniSultanSuleyman.jpg"
+}
+,
+{
+	"AdiSoyadi":    "Osman Gazi",
+	"DogumTarihi":  "1258",
+	"OlumTarihi":   "1 Ağustos 1326",
+	"ResimURL":    "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/OsmanGazi.jpg"
+}
+
+]
