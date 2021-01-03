@@ -1,0 +1,52 @@
+[
+
+	{
+		"AdiSoyadi": "Mustafa Kemal Atatürk",
+		"DogumTarihi": "1881",
+		"OlumTarihi": "10 Kasım 1938",
+		"Bilgi": "Mustafa Kemal Atatürk, Türk asker, devlet adamı ve Türkiye Cumhuriyeti'nin kurucusu. Birinci Dünya Savaşı sırasında Osmanlı ordusuna hizmet eden Atatürk; Çanakkale Cephesi'nde miralaylığa, Sina ve Filistin Cephesi'nde ise Yıldırım Orduları komutanlığına atandı",
+		"KucukResimURL": "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/MustafaKemalAtaturk.jpg",
+		"BuyukResimURL": "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/MustafaKemalAtaturkKapak.jpg"
+	},
+	{
+		"AdiSoyadi": "İsmet İnönü",
+		"DogumTarihi": "24 Eylül 1884",
+		"OlumTarihi": "28 Aralık 1973",
+		"Bilgi": "Mustafa İsmet İnönü, Osmanlı döneminde albay, Cumhuriyet döneminde orgeneral ve eski Genelkurmay Başkanı olan, cumhuriyetin ilanından sonra Türkiye'nin ilk Başbakanı, ikinci Cumhurbaşkanı, İstiklal Madalyası sahibi asker ve siyasetçi.",
+		"KucukResimURL": "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/IsmetInonu.jpg",
+		"BuyukResimURL": "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/IsmetInonuKapak.jpg"
+	},
+	{
+		"AdiSoyadi": "Yavuz Sultan Selim",
+		"DogumTarihi": "10 Ekim 1470",
+		"OlumTarihi": "22 Eylül 1520",
+		"Bilgi": "I. Selim, bilinen adıyla Yavuz Sultan Selim, 9. Osmanlı padişahı ve 88. İslam halifesidir. Aynı zamanda ilk Türk İslam halifesi ve Hâdim'ul-Harameyn'uş-Şerifeyn unvanına sahiptir. Babası II. Bayezid, annesi Gülbahar Hatun, eşi Ayşe Hafsa Sultan'dır.",
+		"KucukResimURL": "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/YavuzSultanSelim.jpg",
+		"BuyukResimURL": "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/YavuzSultanSelimKapak.jpg"
+	},
+	{
+		"AdiSoyadi": "Fatih Sultan Mehmet",
+		"DogumTarihi": "30 Mart 1432",
+		"OlumTarihi": "3 Mayıs 1481",
+		"Bilgi": "II. Mehmed, popüler ismiyle Fatih Sultan Mehmed, kısaca Fatih, veya Batıda kullanılan takma ismiyle Grand Turko 30 Mart 1432 – 3 Mayıs 1481, Osmanlı İmparatorluğu'nun 7. padişahıydı. Tarihî kaynaklarda ismi, Mehmed isimli diğer padişahlarınki gibi, Muhammed şeklinde geçer.",
+		"KucukResimURL": "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/FatihSultanMehmet.jpg",
+		"BuyukResimURL": "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/FatihSultanMehmetKapak.png"
+	},
+	{
+		"AdiSoyadi": "Kanuni Sultan Süleyman",
+		"DogumTarihi": "6 Kasım 1494",
+		"OlumTarihi": "6 Eylül 1566",
+		"Bilgi": "I. Süleyman, Osmanlı İmparatorluğu'nun onuncu padişahı ve 89. İslam halifesi. Batı'da Muhteşem Süleyman, Doğu'da ise adaletli yönetimine atfen Kanunî Sultan Süleyman olarak da bilinmektedir. 1520'den 1566'daki ölümüne kadar, yaklaşık 46 yıl boyunca padişahlık yapan ve 13 kez sefere çıkmıştır.",
+		"KucukResimURL": "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/KanuniSultanSuleyman.jpg",
+		"BuyukResimURL": "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/KanuniSultanSuleymanKapak.jpeg"
+	},
+	{
+		"AdiSoyadi": "Osman Gazi",
+		"DogumTarihi": "1258",
+		"OlumTarihi": "1 Ağustos 1326",
+		"Bilgi": "I. Osman veya Osman Gazi, mahlasıyla Fahrüddin veya Osmancık, Osmanlı Beyliği ve Osmanlı Hanedanı'nın kurucusu ve beyliğin ilk padişahı olan Türk hükümdar. Dedesinin Süleyman Şah veya Gündüz Alp isimli Kayı Beyi olduğu bilinmektedir. Büyükannesi Hayme Hatun, babası Ertuğrul Gazi ve annesi Halime Hatun'dır.",
+		"KucukResimURL": "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/OsmanGazi.jpg",
+		"BuyukResimURL": "https://raw.githubusercontent.com/mertkuskurdan/hr190011mertkuskurdan/main/OsmanGaziKapak.jpg"
+	}
+
+]
