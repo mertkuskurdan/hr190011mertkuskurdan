@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="list_item_kisiler_android_padding">16dp</dimen>
+
+    <dimen name="list_item_kisiler_imgKisi_width">150dp</dimen>
+    <dimen name="list_item_kisiler_imgKisi_height">140dp</dimen>
+    <dimen name="list_item_kisiler_imgKisi_marginStart">16dp</dimen>
+    <dimen name="list_item_kisiler_imgKisi_marginTop">16dp</dimen>
+    <dimen name="list_item_kisiler_imgKisi_marginBottom">16dp</dimen>
+
+    <dimen name="list_item_kisiler_txtAdSoyad_marginStart">10dp</dimen>
+    <dimen name="list_item_kisiler_txtAdSoyad_marginTop">16dp</dimen>
+    <dimen name="list_item_kisiler_txtAdSoyad_textSize">15sp</dimen>
+
+    <dimen name="list_item_kisiler_txtIsim_marginTop">5dp</dimen>
+    <dimen name="list_item_kisiler_txtIsim_textSize">12sp</dimen>
+
+    <dimen name="list_item_kisiler_txtDogumTarihi_marginStart">10dp</dimen>
+    <dimen name="list_item_kisiler_txtDogumTarihi_marginTop">5dp</dimen>
+    <dimen name="list_item_kisiler_txtDogumTarihi_textSize">15sp</dimen>
+
+    <dimen name="list_item_kisiler_txtTarih_marginTop">5dp</dimen>
+    <dimen name="list_item_kisiler_txtTarih_textSize">12sp</dimen>
+
+    <dimen name="list_item_kisiler_txtOlumTarihi_marginStart">10dp</dimen>
+    <dimen name="list_item_kisiler_txtOlumTarihi_marginTop">5dp</dimen>
+    <dimen name="list_item_kisiler_txtOlumTarihi_textSize">15sp</dimen>
+
+    <dimen name="list_item_kisiler_txtOlumTarih_marginTop">5dp</dimen>
+    <dimen name="list_item_kisiler_txtOlumTarih_textSize">12sp</dimen>
+
+    <dimen name="activity_splash_img_SplashLogo_width">196dp</dimen>
+    <dimen name="activity_splash_img_SplashLogo_height">146dp</dimen>
+
+    <dimen name="activity_kisi_detay_layut_editor_absoluteX">0dp</dimen>
+    <dimen name="activity_kisi_detay_layout_editor_absoluteY">0dp</dimen>
+
+    <dimen name="activity_kisi_detay_imgKapak_height">250dp</dimen>
+
+    <dimen name="activity_kisi_detay_txtBaslik_padding">10dp</dimen>
+    <dimen name="activity_kisi_detay_txtBaslik_textSize">35sp</dimen>
+
+    <dimen name="activity_kisi_detay_txtDetay_padding">10dp</dimen>
+    <dimen name="activity_kisi_detay_txtDetay_textSize">20sp</dimen>
+
+</resources>

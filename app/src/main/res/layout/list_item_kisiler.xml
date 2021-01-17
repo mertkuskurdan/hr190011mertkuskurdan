@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/list_item_kisiler_android_padding">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imgKisi"
+                android:layout_width="@dimen/list_item_kisiler_imgKisi_width"
+                android:layout_height="@dimen/list_item_kisiler_imgKisi_height"
+                android:layout_marginStart="@dimen/list_item_kisiler_imgKisi_marginStart"
+                android:layout_marginTop="@dimen/list_item_kisiler_imgKisi_marginTop"
+                android:layout_marginBottom="@dimen/list_item_kisiler_imgKisi_marginBottom"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:srcCompat="@tools:sample/avatars" />
+
+            <TextView
+                android:id="@+id/txtAdSoyad"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/list_item_kisiler_txtAdSoyad_marginStart"
+                android:layout_marginTop="@dimen/list_item_kisiler_txtAdSoyad_marginTop"
+                android:text="@string/txtAdSoyad"
+                android:textColor="@color/list_item_kisiler_adi_soyadi"
+                android:textSize="@dimen/list_item_kisiler_txtAdSoyad_textSize"
+                app:layout_constraintStart_toEndOf="@+id/imgKisi"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/txtIsim"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/list_item_kisiler_txtIsim_marginTop"
+                android:textSize="@dimen/list_item_kisiler_txtIsim_textSize"
+                app:layout_constraintStart_toStartOf="@+id/txtAdSoyad"
+                app:layout_constraintTop_toBottomOf="@+id/txtAdSoyad"
+                tools:text="@string/txtIsim" />
+
+            <TextView
+                android:id="@+id/txtDogumTarihi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/list_item_kisiler_txtDogumTarihi_marginStart"
+                android:layout_marginTop="@dimen/list_item_kisiler_txtDogumTarihi_marginTop"
+                android:text="@string/txtDogumTarihi"
+                android:textColor="@color/list_item_kisiler_dogum_tarihi"
+                android:textSize="@dimen/list_item_kisiler_txtDogumTarihi_textSize"
+                app:layout_constraintStart_toEndOf="@+id/imgKisi"
+                app:layout_constraintTop_toBottomOf="@+id/txtIsim" />
+
+            <TextView
+                android:id="@+id/txtTarih"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/list_item_kisiler_txtTarih_marginTop"
+                android:textSize="@dimen/list_item_kisiler_txtTarih_textSize"
+                app:layout_constraintStart_toStartOf="@+id/txtDogumTarihi"
+                app:layout_constraintTop_toBottomOf="@+id/txtDogumTarihi"
+                tools:text="@string/txtTarih" />
+
+            <TextView
+                android:id="@+id/txtOlumTarihi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/list_item_kisiler_txtOlumTarihi_marginStart"
+                android:layout_marginTop="@dimen/list_item_kisiler_txtOlumTarihi_marginTop"
+                android:text="@string/txtOlumTarihi"
+                android:textColor="@color/list_item_kisiler_olum_tarihi"
+                android:textSize="@dimen/list_item_kisiler_txtOlumTarihi_textSize"
+                app:layout_constraintStart_toEndOf="@+id/imgKisi"
+                app:layout_constraintTop_toBottomOf="@+id/txtTarih" />
+
+            <TextView
+                android:id="@+id/txtOlumTarih"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/list_item_kisiler_txtOlumTarih_marginTop"
+                android:textSize="@dimen/list_item_kisiler_txtOlumTarih_textSize"
+                app:layout_constraintStart_toStartOf="@+id/txtOlumTarihi"
+                app:layout_constraintTop_toBottomOf="@+id/txtOlumTarihi"
+                tools:text="@string/txtOlumTarih" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

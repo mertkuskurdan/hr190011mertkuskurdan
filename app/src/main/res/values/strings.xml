@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tarihe Yön Vermis Kisiler</string>
+    <string name="txtAdSoyad">Adı Soyadı</string>
+    <string name="txtIsim">Mustafa Kemal Atatürk</string>
+    <string name="txtDogumTarihi">Doğum Tarihi</string>
+    <string name="txtTarih">1881</string>
+    <string name="txtOlumTarihi">Ölüm Tarihi</string>
+    <string name="txtOlumTarih">10 Kasım 1938</string>
+    <string name="txtBaslik">BAŞLIK</string>
+    <string name="txtDetay">DETAY</string>
+    <string name="splashAlertDialogSetTitle">İnternet Bağlantınız Yok</string>
+    <string name="splashAlertDialogSetMessage">Uygulamayı kullanmak için internete bağlayın.</string>
+    <string name="splashsetNegativeButton">Kapat</string>
+    <string name="splashsetPositiveButton">İnterneti Aç</string>
+    <string name="onBackSplashsetTitle">Çıkmak İstiyor Musunuz ?</string>
+    <string name="onBackSplashsetNegativeButton">Çıkış</string>
+    <string name="onBackSplashsetPositiveButton">İptal</string>
+    <string name="onBackSplashsetMessage">Lütfen Bekleyiniz.</string>
+
+
+</resources>
